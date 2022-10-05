@@ -1,8 +1,8 @@
 # GED2022-Midterm
 ---
-**To run:**
-\ Download build.zip, extract, run GED midterm 2d.exe
-\ Build Observer.zip is the same but it includes the observer pattern implemented.
+**To run:** \
+ Download build.zip, extract, run GED midterm 2d.exe\
+ Build Observer.zip is the same but it includes the observer pattern implemented.
 
 ---
 Simple game showcasing the use of singleton pattern for audio.
