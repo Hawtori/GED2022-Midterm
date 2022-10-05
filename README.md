@@ -2,6 +2,7 @@
 ---
 **To run:**
 Download build.zip, extract, run GED midterm 2d.exe
+
 ---
 Simple game showcasing the use of singleton pattern for audio.
 Pressing Space bar shows the fairy being activated, and as a result, speeding up the background music.
